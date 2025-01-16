@@ -1,16 +1,6 @@
 {
     "site": [
         {
-            "title": "Example Site",
-            "url": "example.com",
-            "keyword": "spam, advertisement"
-        },
-        {
-            "title": "Bad Site",
-            "url": "bad-site.com",
-            "keyword": "fake news, scam"
-        },
-        {
             "url": "baidu.com",
             "keyword": "",
             "regex": true

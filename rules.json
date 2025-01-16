@@ -10,5 +10,11 @@
             "keyword": "",
             "regex": true
         }
+        {
+            "url": "https://cyberpolice.mps.gov.cn/",
+            "keyword": "",
+            "regex": true
+        }
+        
     ]
 }
